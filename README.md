@@ -2,7 +2,7 @@
 
 ## 🚀 Data Scientist | Certified TensorFlow Developer & Associate Data Scientist
 
-I graduated from the **Data Science** program at the Faculty of Informatics, Telkom University, Purwokerto. My academic interests lie in **Programming**, **Statistics**, and **Mathematics**, with a strong foundation in analytical skills, including data visualization, predictive modeling, and machine learning. I excel in leadership, demonstrated through my active involvement in organizational activities, where I effectively manage teams and drive collaborative success. With an insatiable curiosity and a commitment to growth, my long-term goal is to become a proficient and accomplished expert in data science, making impactful contributions to the field.
+I am a **Data Scientist and Machine Learning Researcher**. My academic interests lie in **Programming**, **Statistics**, and **Mathematics**, with a strong foundation in analytical skills, including data visualization, predictive modeling, and machine learning. I excel in leadership, demonstrated through my active involvement in organizational activities, where I effectively manage teams and drive collaborative success. With an insatiable curiosity and a commitment to growth, my long-term goal is to become a proficient and accomplished expert in data science, making impactful contributions to the field.
 
 ---
 
