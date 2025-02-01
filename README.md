@@ -23,8 +23,8 @@ I am a **Data Scientist and Machine Learning Researcher**. My academic interests
 ### 6️⃣ **Mall Customer Clustering**
 ### 7️⃣ **Wine Classification**
 ### 8️⃣ **Comparison of K-Means and Mini Batch K-Means**
-### 9️⃣ **Linear Regression on California Housing Data**
-### 🔟  **Non-Linear Regression on California Housing Data**
+### 9️⃣ **Linear & Non-Linear Regression on California Housing Data**
+### 🔟  etc.
 
 ---
 
