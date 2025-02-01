@@ -67,9 +67,9 @@ I graduated from the **Data Science** program at the Faculty of Informatics, Tel
 ---
 
 ## 📂 Publications & Patents
-📄 **(Journal)** Analysis of KNN and Forward Chaining for Stunting Prediction  [e-journals.unmul.ac.id](https://e-journals.unmul.ac.id/index.php/JIM/article/view/10169) 
-📄 **(Journal)** Digital Transformation of Public Health Data with E-Posyandu  [publikasi.polije.ac.id](https://publikasi.polije.ac.id/index.php/j-dinamika/article/view/3590) 
-📄 **(Patent)** E-Posyandu Grujugan - 2023  [pdki-indonesia.dgip.go.id](https://pdki-indonesia.dgip.go.id/search?type=copyright&keyword=e-Posyandu+Grujugan)
+📄 **(Journal)** Analysis of KNN and Forward Chaining for Stunting Prediction [e-journals.unmul.ac.id](https://e-journals.unmul.ac.id/index.php/JIM/article/view/10169)  
+📄 **(Journal)** Digital Transformation of Public Health Data with E-Posyandu [publikasi.polije.ac.id](https://publikasi.polije.ac.id/index.php/j-dinamika/article/view/3590)  
+📄 **(Patent)** E-Posyandu Grujugan - 2023 [pdki-indonesia.dgip.go.id](https://pdki-indonesia.dgip.go.id/search?type=copyright&keyword=e-Posyandu+Grujugan)    
 
 ---
 
@@ -83,4 +83,8 @@ I graduated from the **Data Science** program at the Faculty of Informatics, Tel
 ---
 
 🚀 **Actively seeking opportunities in AI, Data Science, and Optimization Research!** Feel free to reach out!
+
+
+
+
 
