@@ -18,13 +18,13 @@ I am a **Data Scientist and Machine Learning Researcher**. My academic interests
 ### 1️⃣ **Particle Swarm Optimization (PSO) based Arcus Tangen for Machine Learning & Clustering**
 ### 2️⃣ **Optimized K-Means Clustering using IPSO**
 ### 3️⃣ **GASTRONOMIX : Personalize Culinary Companion**
-### 4️⃣ **Clustering Earthquake in Indonesia**
+### 4️⃣ **Social Network Analysis**
 ### 5️⃣ **Stunting Prediction using Expert System Forward Chaining**
-### 6️⃣ **Mall Customer Clustering**
+### 6️⃣ **Analysis Geospatial**
 ### 7️⃣ **Wine Classification**
 ### 8️⃣ **Comparison of K-Means and Mini Batch K-Means**
 ### 9️⃣ **Linear & Non-Linear Regression on California Housing Data**
-### 🔟  etc.
+### 🔟  **Mall Customer Clustering**, etc.
 
 ---
 
