@@ -79,6 +79,7 @@ I am a **Data Scientist and Machine Learning Researcher**. My academic interests
 📂 **GitHub:** [github.com/rifaldoys](https://github.com/rifaldoys)  
 📊 **Kaggle:** [kaggle.com/rifaldoyohannes](https://www.kaggle.com/rifaldoyohannes)  
 🎽 **Instagram:** [instagram.com/rifaldoys](https://www.instagram.com/rifaldoys)
+📄 **Document** [googledrive.com/rifaldoys](https://drive.google.com/drive/folders/1l6ECw7PVSUpmLriy6PeDCdULMFWvPJPf?usp=sharing)
 
 ---
 
